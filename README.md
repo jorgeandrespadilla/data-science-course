@@ -96,6 +96,66 @@ See more at [Python for Data Analysis and Visualization](materials/slides/day2/P
 
 - Python for Data Analysis and Visualization (*Python Modules*)
 
+### Day 3 (21th July)
+
+**Python for Machine Learning**:
+
+*Content:*
+
+- Regression (see more [here](materials/slides/day3/RegressionSlides.pdf)):
+    - Simple linear regression
+    - Regression and Correlation (measuring correlation)
+    - Polynomial regression
+    - Anscombe’s quartet
+- Classification (see more [here](materials/slides/day3/ClassificationSlides.pdf)):
+    - Terminology
+    - K-Nearest Neighbors (KNN)
+    - Decision Trees
+    - Naïve Bayes
+    - Deep Neural Networks
+    - Training and testing
+- Clustering (see more [here](materials/slides/day3/ClusteringSlides.pdf)):
+    - K-Means Clustering
+    - Applications
+
+See more at [Python for Machine Learning](materials/slides/day3/PythonMLslides.pdf).
+
+*Hands-on activities:*
+
+- Python for Machine Learning (*Machine Learning Modules*)
+
+**Data Mining**:
+
+*Content:*
+
+- Basic concepts
+- Data mining algorithms:
+    - Frequent item-sets
+    - Association rules
+
+See more at [Data Mining Algorithms](materials/slides/day3/MiningSlides.pdf).
+
+*Hands-on activities:*
+
+- Data Mining using Python (*Data Mining Modules (only Python)*)
+
+**Network Analysis**:
+
+*Content:*
+- Basic concepts
+- Examples
+- Network analysis:
+    - Undirected graphs
+    - Directed graphs
+    - Labeled graphs
+    - Other analyses
+
+See more at [Network Analysis](materials/slides/day3/NetworksSlides.pdf).
+
+*Hands-on activities:*
+
+- Network Analysis (*Network Analysis (module)*)
+
 ## Materials
 
 http://www.professorwidom.org/
