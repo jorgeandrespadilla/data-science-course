@@ -1,5 +1,7 @@
 # Getting Started
 
+**It is recommended to use Google Colab to run all this project notebooks.**
+
 ## Using Python Virtual Environment
 
 To run this project in a Python virtual environment, we need to create a virtual environment.
