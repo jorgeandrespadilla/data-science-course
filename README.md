@@ -44,13 +44,13 @@ See more at [Overview of Data Science](materials/slides/OverviewSlides.pdf) or [
 
 *Content:*
 
-- Data analysis using Spreadsheets
-- Data visualization using Spreadsheets
-- Data visualization using Tableau
+- Data analysis using Spreadsheets (see more [here](materials/slides/day1/SpreadsheetsSlides.pdf))
+- Data visualization using Spreadsheets (see more [here](materials/slides/day1/VisualizationSlides.pdf.pdf))
+- Data visualization using Tableau (see more [here](materials/slides/day1/TableauSlides.pdf))
 
 *Hands-on activities:*
 
-- Data analysis using Spreadsheets (*Spreadsheet Module*)
+- Data analysis using Spreadsheets (*Spreadsheets Module*)
 - Data visualization using Spreadsheets (*Visualization Module*)
 
 ### Day 2 (20th July)
