@@ -10,6 +10,53 @@ This repository is a collection of all the course materials, including the cours
 
 See more at [Data Science Fact Sheet](materials/documents/Data%20Science%20Fact%20Sheet.pdf).
 
+## Itinerary
+
+### Day 1 (19th July)
+
+**Introduction to Data Science**:
+
+*Content:*
+
+- The “Instructional Odyssey”
+- Motivation and terminology
+- Applications and services
+- Tools and Techniques overview:
+    - Basic Data Manipulation and Analysis
+    - Data Mining
+    - Machine Learning
+    - Data Visualization
+    - Data Collection and Preparation
+    - Languages, Systems, Platforms
+- Pitfalls:
+    - Correlation and Causation
+    - Underfitting and Overfitting
+    - Privacy considerations
+
+See more at [Overview of Data Science](materials/slides/OverviewSlides.pdf) or [Overview of Data Science (COVID Edition)](materials/slides/OverviewSlidesCE.pdf).
+
+**Data analysis and visualization:**
+
+*Before starting:*
+
+- [Getting Started with Google Sheets](materials/documents/getting-started/Getting%20Started%20with%20Google%20Sheets.pdf)
+- [Getting Started with Tableau Public](materials/documents/getting-started/Getting%20Started%20with%20Tableau%20Public.pdf)
+
+*Content:*
+
+- Data analysis using Spreadsheets
+- Data visualization using Spreadsheets
+- Data visualization using Tableau
+
+*Hands-on activities:*
+
+- Data analysis using Spreadsheets (*Spreadsheet Module*)
+- Data visualization using Spreadsheets (*Visualization Module*)
+
+### Day 2 (20th July)
+
+### Day 3 (21th July)
+
 ## Materials
 
 http://www.professorwidom.org/
