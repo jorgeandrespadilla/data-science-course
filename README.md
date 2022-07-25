@@ -35,7 +35,7 @@ See more at [Data Science Fact Sheet](materials/documents/Data%20Science%20Fact%
 
 See more at [Overview of Data Science](materials/slides/OverviewSlides.pdf) or [Overview of Data Science (COVID Edition)](materials/slides/OverviewSlidesCE.pdf).
 
-**Data analysis and visualization:**
+**Data Analysis and Visualization:**
 
 *Before starting:*
 
@@ -55,7 +55,46 @@ See more at [Overview of Data Science](materials/slides/OverviewSlides.pdf) or [
 
 ### Day 2 (20th July)
 
-### Day 3 (21th July)
+**Relational Databases and SQL**:
+
+*Before starting:*
+
+- [Getting Started with Google Colab](materials/documents/getting-started/Getting%20Started%20with%20Google%20Colab.pdf)
+
+*Content:*
+
+- Introduction and basic concepts
+- Basic SQL:
+    - Basic SELECT statement
+    - Ordering
+    - Joins
+    - Basic aggregation
+    - Limit clause
+
+See more at [Relational Databases and SQL](materials/slides/day2/RelationalDBandSQLSlides.pdf).
+
+*Hands-on activities:*
+
+- Basic SQL (*SQL Modules (only Basic SQL)*)
+
+**Python for Data Analysis and Visualization**:
+
+*Before starting:*
+
+- [Getting Started with Google Colab](materials/documents/getting-started/Getting%20Started%20with%20Google%20Colab.pdf)
+
+*Content:*
+
+- Python basics
+- Data manipulation
+- Pandas and data analysis
+- Plotting and data visualization
+
+See more at [Python for Data Analysis and Visualization](materials/slides/day2/PythonSlides.pdf).
+
+*Hands-on activities:*
+
+- Python for Data Analysis and Visualization (*Python Modules*)
 
 ## Materials
 
